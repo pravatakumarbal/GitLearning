@@ -14,7 +14,7 @@ class student{
 public class ArrayDemo {
 
 	public static void main(String[] args) {
-		// one dimensional array
+		// one dimensional array see below
 	/*	int num [] = new int [4];
 		int num1 [] = {1,3,9,27};
 		num[0] =2;
